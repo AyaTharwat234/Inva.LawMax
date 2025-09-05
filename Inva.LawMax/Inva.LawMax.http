@@ -1,6 +1,0 @@
-@Inva.LawMax_HostAddress = http://localhost:5294
-
-GET {{Inva.LawMax_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
